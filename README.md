@@ -43,4 +43,17 @@ To set up and run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Priyanshu2611/Gemini_Clone.git
    cd Gemini_Clone
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Run the application**
+   ```bash
+   npm start
+
+The application will be available at `http://localhost:3000`.
+
+##Usage
+
   
